@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فسيفساء التاريخ</string>
+    <string name="app_subtitle">تعلم التاريخ من خلال الألغاز</string>
+    <string name="start_game">ابدأ اللعبة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="continents">القارات</string>
+    <string name="asia">آسيا</string>
+    <string name="africa">أفريقيا</string>
+    <string name="europe">أوروبا</string>
+    <string name="north_america">أمريكا الشمالية</string>
+    <string name="south_america">أمريكا الجنوبية</string>
+    <string name="oceania">أوقيانوسيا</string>
+    <string name="level">المرحلة</string>
+    <string name="levels_completed">المراحل المكتملة</string>
+    <string name="total_score">إجمالي النقاط</string>
+    <string name="biography">السيرة الذاتية</string>
+    <string name="achievements">الإنجازات</string>
+    <string name="hint">تلميح</string>
+    <string name="skip">تخطي</string>
+    <string name="undo">تراجع</string>
+    <string name="language">اللغة</string>
+    <string name="sound_on">الصوت مفعل</string>
+    <string name="music_on">الموسيقى مفعلة</string>
+</resources>
